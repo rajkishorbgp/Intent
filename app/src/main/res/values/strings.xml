@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="save">save</string>
+    <string name="enter_the_email">Enter the email</string>
+    <string name="send_email">Send Email</string>
+</resources>
